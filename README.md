@@ -50,6 +50,12 @@
 
 -   [Git for Windows](https://gitforwindows.org/)
 
+        choco install git
+
+-   [GitHub CLI for Windows](https://cli.github.com/)
+
+        choco install gh
+
 -   [XAMPP](https://www.apachefriends.org/index.html)
 
     -   `mkdir c:\xampp\apache\conf\local`
@@ -80,4 +86,4 @@
 
 -   Other things you can install:
 
-        choco install less
+        choco install less grep diffutils findutils nano patch awk Wget make gawk sed curl
