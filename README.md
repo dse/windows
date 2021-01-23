@@ -70,12 +70,14 @@
     
     -   Run Notepad as Administrator.
     
-        -   Open c:\windows\system32\drivers\etc\hosts.
+        -   Open `c:\windows\system32\drivers\etc\hosts`.
         
         -   Append entries like the following:
         
             ```
-            
+            # you can put a comment on a line by itself
+            127.0.0.1	yourclient.localhost        # or after a hostname
+            127.0.0.1	www.yourclient.localhost
             ```
         
         -   Save.
@@ -87,3 +89,5 @@
 -   Other things you can install:
 
         choco install less grep diffutils findutils nano patch awk Wget make gawk sed curl
+        choco install ffmpeg
+        choco install cloc
