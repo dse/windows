@@ -86,6 +86,10 @@
 
         choco install awscli
 
+-   [Composer](https://getcomposer.org/)
+
+        choco install composer
+
 -   Other things you can install:
 
         choco install less grep diffutils findutils nano patch awk Wget make gawk sed curl
