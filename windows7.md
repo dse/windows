@@ -89,6 +89,9 @@ repositories.
 -   Some fonts in Google Fonts will not display in Windows 7.
     Not in Google Chrome; not even in Firefox.
 
+-   Node.js doesn't support Windows 7.  You can set an environment
+    variable that will force it to run, but there are no guarantees.
+
 ## Links
 
 [ccadb]: https://www.ccadb.org/
