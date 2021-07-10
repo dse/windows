@@ -7,7 +7,7 @@ hardware.  You can even use the Windows Classic theme and set your
 background to solid color `#3a6ea5`.
 
 Microsoft doesn't update Windows 7 anymore.  You'll have to deal with
-some concomitant issues here and there.
+some resulting issues here and there.
 
 ## Get a good browser.
 
