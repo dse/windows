@@ -4,7 +4,7 @@ Windows 10 is minimalist trash that performs poorly on older hardware.
 
 Windows 7 has useful window decorations, and works fine on older
 hardware.  You can even use the Windows Classic theme and set your
-background to solid color `#`.
+background to solid color `#3a6ea5`.
 
 Microsoft doesn't update Windows 7 anymore.  You'll have to deal with
 some concomitant issues here and there.
