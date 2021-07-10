@@ -84,6 +84,11 @@ repositories.
 
 -   [Color Cop][colorcop] (fails to install in choco)
 
+## Additional Issues That Seem Impossible to Solve
+
+-   Some fonts in Google Fonts will not display in Windows 7.
+    Not in Google Chrome; not even in Firefox.
+
 ## Links
 
 [ccadb]: https://www.ccadb.org/
